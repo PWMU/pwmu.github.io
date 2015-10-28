@@ -95,14 +95,19 @@ border-color: #0000FD;
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     width: 600px; 
 	border: none; 
-		
 }	
 
 #cookbooks td {
 	width: 300px;
 	padding: 30px 30px 30px 30px;
 }	
-
+#recipe td {
+	background: #F9D298;
+	font-size: 12px;
+	width: 480px;
+	padding: 0 0;
+	border: none;
+}	
 
 #missions {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
