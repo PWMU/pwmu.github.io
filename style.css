@@ -9,8 +9,9 @@ font-family: Verdana, Arial, Helvetica, sans-serif;
 font-size: 11px;
 line-height: 18px;
 color: #333333;
-#color: #2B448C;
 }
+/* #color: #2B448C; */
+
 
 img { border: none; }
 a { color: #0F0FFF; text-decoration: none; }
@@ -54,8 +55,9 @@ padding: 5px 0;
 height: 50px;
 line-height: 50px;
 background: #0000FF url(images/menu_dark3.gif) no-repeat;
-#background: #2B448C;
+
 font-size: 12px;
+/* #background: #2B448C; */
 }
 #menu ul {
 padding-left: 20px;
@@ -76,7 +78,7 @@ color: #fff;
 text-decoration: underline;
 }
 #menu .current {
-    font-size: 10px
+    font-size: 10px;
 	background: #2B448C;
 }
 
@@ -91,20 +93,20 @@ border-color: #0000FD;
 
 #cookbooks {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    width: 600; 
+    width: 600px; 
 	border: none; 
 		
 }	
 
 #cookbooks td {
-	width: 300;
-	padding: 30 30 30 30;
+	width: 300px;
+	padding: 30px 30px 30px 30px;
 }	
 
 
 #missions {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    width: 581; 
+    width: 580px; 
 	border: none; 
 
 }
@@ -132,9 +134,8 @@ border-color: #0000FD;
 	
 
 #missions td.alt td {
-	width: 306;
-	width: 274;
-	
+	width: 306px;
+	width: 274px;	
 }
 /* unvisited link */
 a:link {
