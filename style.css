@@ -75,6 +75,9 @@ font-weight: 600;
 color: #fff;
 text-decoration: underline;
 }
+#menu .current {
+    font-size: 10px
+}
 
 #content {
 padding: 10px 10px;
