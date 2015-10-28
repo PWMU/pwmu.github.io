@@ -1,0 +1,169 @@
+* {
+    padding: 0;
+    margin: 0;
+} 
+
+body {
+background: #fff;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+line-height: 18px;
+color: #333333;
+#color: #2B448C;
+}
+
+img { border: none; }
+a { color: #0F0FFF; text-decoration: none; }
+a:hover { text-decoration: underline; color: #006FFF; }
+
+#wrap {
+width: 960px;
+margin: 40px auto;
+}
+
+#header {
+height: 40px;
+}
+
+#header h1 {
+padding: 0 0 0 20px;
+font-size: 20px;
+letter-spacing: -2px;
+}
+#header h1 a {
+color: #2B448C;
+text-decoration: none;
+}
+#header h1 a:hover {
+text-decoration: none;
+color: #000;
+}
+#header h2 {
+padding-left: 21px;
+font-size: 14px;
+color: #666;
+font-weight: 100;
+}
+
+#top {
+background: #fff no-repeat;
+padding: 5px 0;
+}
+
+#menu {
+height: 50px;
+line-height: 50px;
+background: #0000FF url(images/menu_dark3.gif) no-repeat;
+#background: #2B448C;
+font-size: 12px;
+}
+#menu ul {
+padding-left: 20px;
+list-style-type: none;
+}
+#menu ul li {
+display: block;
+float: left;
+}
+#menu ul li a {
+color: #fff;
+padding: 0 10px;
+text-decoration: none;
+font-weight: 600;
+}
+#menu ul li a:hover {
+color: #fff;
+text-decoration: underline;
+}
+
+#content {
+padding: 10px 10px;
+/* background: #fff url(images/content.gif) repeat-y; */
+border-style: solid;
+border-width: 1px;
+border-color: #0000FD;
+
+/*
+#content h1 a {
+color: #0000FD;
+text-decoration: none;
+}
+#content h1 a:hover {
+text-decoration: none;
+color: #000;
+} 
+
+#content h2 {
+color: #0000FD;
+padding-left: 21px;
+font-size: 14px;
+color: #FF0000;
+font-weight: 100;
+}
+#content h2 a:hover {
+text-decoration: none;
+color: #00000FF;
+}
+*/
+
+}
+
+.right {
+float: right;
+width: 640px;
+text-align: justify;
+padding: 0 20px 10px 10px;
+}
+.right h2 {
+color: #0000EF;
+font-size: 20px;
+letter-spacing: -2px;
+font-weight: 100;
+padding : 10px 0 15px 0;
+}
+.right h2 a {
+
+}
+.right h2 a:hover {
+color: #0000FF;
+
+}
+.left {
+float: left;
+width: 220px;
+padding: 10px;
+border-right: 1px solid #aaa;
+}
+.left h2 {
+font-size: 13px;
+color: #333;
+padding: 5px 0 2px 10px;
+}
+.left ul {
+list-style-type: none;
+padding: 5px 0 10px 5px;
+}
+.left ul li {
+padding: 2px 20px;
+background: transparent no-repeat;
+}
+
+.left ul li a {
+display: block;
+color: #444;
+}
+.left ul li a:hover {
+color: #33BFEB;
+}
+
+#bottom {
+background: #fff no-repeat;
+padding: 10px 0;
+}
+
+#footer {
+text-align: center;
+color: #666;
+font-size: 11px;
+}
+#footer  a { color: #666; }
