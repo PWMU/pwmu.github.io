@@ -1,0 +1,5 @@
+{% if page.url == include.href %}
+<a href="{{ include.href }}" class="current">
+{% else %}
+<a href="{{ include.href }}">
+{% endif %}
