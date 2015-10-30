@@ -52,7 +52,7 @@ height: 50px;
 line-height: 50px;
 background: #0000FF url(images/menu_dark3.gif) no-repeat;
 
-font-size: 12px;
+font-size: 15px;
 /* #background: #2B448C; */
 }
 #menu ul {
@@ -74,7 +74,7 @@ color: #fff;
 text-decoration: underline;
 }
 #menu .current {
-    font-size: 10px;
+    font-size: 12px;
 	background: #2B448C;
 }
 
