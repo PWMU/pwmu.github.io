@@ -48,11 +48,11 @@ padding: 5px 0;
 }
 
 #menu {
-height: 50px;
-line-height: 50px;
-background: #0000FF url(images/menu_dark3.gif) no-repeat;
+height: 65px;
+line-height: 65px;
+background: #0000FF url(images/menu_dark4.gif) no-repeat;
 
-font-size: 15px;
+font-size: 24px;
 /* #background: #2B448C; */
 }
 #menu ul {
@@ -74,7 +74,7 @@ color: #fff;
 text-decoration: underline;
 }
 #menu .current {
-    font-size: 12px;
+    font-size: 16px;
 	background: #2B448C;
 }
 
