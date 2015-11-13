@@ -179,6 +179,9 @@ color: #0000FF;
 .right table img {
 	margin: auto;
 }
+.right p {
+	padding-top: 10px;
+}
 .left {
 float: left;
 width: 220px;
