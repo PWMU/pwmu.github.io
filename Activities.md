@@ -4,14 +4,14 @@ title: Activities
 ---
 # What does PWMU do to support missionaries?
 
-* Branches
+## Branches
   - draw members from Presbyterian churches around Victoria
   - organise activities to raise funds
   - keep direct contact with missionaries by letter or email where possible
   - receive monthly news via the PWMU Newsletter
   - foster interest in and support for missionaries within their congregations
 
-* Publications
+## Publications
   - PWMU Newsletter
   - The _[PWMU Cookbook](Cookbook)_
   - ... And The History (_From Suet to Saffron_)
@@ -23,11 +23,11 @@ title: Activities
   - Annual Devotional Booklet
   - Book of Remembrance
 
-* Collections
+## Collections
   - Used Stamps
   - 5c Coins for Orbus
 
-* Events
+## Events
   - Country Rally
   - Thanksgiving Rally
   - Annual General Meeting & Missionary Reports
