@@ -176,6 +176,9 @@ color: #0000FF;
 .right table {
 	width: 100%;
 }
+.right table img {
+	margin: auto;
+}
 .left {
 float: left;
 width: 220px;
