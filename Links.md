@@ -8,7 +8,6 @@ title: Links
 Some of the organisations where PCV missionaries are serving (each link opens in a separate page)
 
 
-<table id="missions">
 
 Organization|Locations
 :----------------------|:------------------------------------------------
