@@ -16,7 +16,9 @@ title: Activities
   - The _[PWMU Cookbook](Cookbook)_
   - ... And The History (_From Suet to Saffron_)
   - [Free E-book](CLGPDF-English-book.pdf) by Rosemary Zurrer
+
     _Charlotte Leonora Geddie The First Presbyterian Missionary Wife in the New Hebrides_
+
   - Dayspring Children's Newsletter
   - Annual Devotional Booklet
   - Book of Remembrance
