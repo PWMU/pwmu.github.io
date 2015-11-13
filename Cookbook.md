@@ -40,6 +40,7 @@ There will still be over 4500 copies of the Cookbook in stock so plenty will be 
 Here's something to warm you up on a cold winter's day!
 
 Corn and Bacon Chowder (serves 4)
+
 - 3 rashers bacon
 - 2 1/2 cups (625 ml) milk
 - 1 small onion, finely sliced
