@@ -18,12 +18,12 @@ title: PWMU Home
   
     
     
->    - missionaries supported and sponsored by the PCV
->  
->      
->    - organisations where PCV missionaries are serving
->    
->    
->    - PWMU activities across the State
+>        ### - missionaries supported and sponsored by the PCV
+  
+      
+>        ### - organisations where PCV missionaries are serving
+    
+    
+>        ### - PWMU activities across the State
 
 
