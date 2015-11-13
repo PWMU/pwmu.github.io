@@ -4,7 +4,7 @@ title: Cookbooks
 ---
 # The Famous PWMU Cookbook - over 100 years of hearty sustenance
 
-![Cookbook Cover](cookbook_cover.png) | ![From Suet to Saffron](From-Suet-to-Saffron_cover.jpg)
+![Cookbook Cover](cookbook_cover.png) | ![From Suet to Saffron](From-Suet-to-Saffron_cover.png)
 :------------------------------------:|:------------------------------------------------------:
 
 Please view or [download full postage details here (pdf 373Kb)](PWMU_Cookbooks_2015_Details.pdf) and this [order form (pdf 283Kb)](Cookbooks_Order_20151026.pdf).
