@@ -11,19 +11,15 @@ title: PWMU Home
     
     
 ### Members are usually organised into branches operating under the authority of the Session of the local congregation.
+
+### Branches work together within Presbyteries as Presbyterial Associations (PAs)
   
-  
+### Members who are not able to join via a branch are recognised as individual "Lone" members   
   
 ### Members receive regular news about
-  
-    
-    
+
 ###         - missionaries supported and sponsored by the PCV
-###        
-###        
+
 ###         - organisations where PCV missionaries are serving
-###        
-###        
+
 ###         - PWMU activities across the State
-
-
