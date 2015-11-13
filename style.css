@@ -93,11 +93,7 @@ border-color: #0000FD;
 	border: none; 
 }	
 
-#cookbooks td {
-	width: 300px;
-	padding: 30px 30px 30px 30px;
-}	
-#recipe td {
+#cookbooks {
 	background: #F9D298;
 	font-size: 12px;
 	width: 480px;
