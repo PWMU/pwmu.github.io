@@ -31,7 +31,7 @@ Each book will have an inside label attached stating that it comes with the good
 
 There will still be over 4500 copies of the Cookbook in stock so plenty will be available for others wishing to purchase them. The publisher will give a 35% discount for church groups when orders and payment are made together.
 
-<div id="cookbooks"> 
+<div markdown="1" id="cookbooks"> 
 ## Sample recipe from p 35
 
 (used with permission)
