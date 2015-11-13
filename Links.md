@@ -4,10 +4,14 @@ title: Links
 ---
 
 ## PWMU was founded in 1890 to encourage prayerful interest in, and support for, missionaries of the Presbyterian Church of Victoria (PCV).
-	
-Some of the organisations where PCV missionaries are serving (each link opens in a separate page)
+
+## Some of the organisations where PCV missionaries are serving
+
+(each link opens in a separate page)
 
 
+
+<table id="missions">
 
 Organization|Locations
 :----------------------|:------------------------------------------------
