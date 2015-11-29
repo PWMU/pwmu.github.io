@@ -154,13 +154,13 @@ text-align: justify;
 padding: 0 20px 10px 10px;
 }
 .right h2 {
-color: #0000EF;
+color: #666;
 font-size: 20px;
 font-weight: 600;
 padding : 10px 0 15px 0;
 }
 .right h2 a {
-
+color: #0000EF;
 }
 .right h2 a:hover {
 color: #0000FF;
