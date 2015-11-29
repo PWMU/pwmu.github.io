@@ -34,34 +34,34 @@ Each book will have an inside label attached stating that it comes with the good
 There will still be over 4500 copies of the Cookbook in stock so plenty will be available for others wishing to purchase them. The publisher will give a 35% discount for church groups when orders and payment are made together.
 
 <div markdown="1" id="cookbooks"> 
->## Sample recipe from p 35
->
->(used with permission)
->
->
->Here's something to warm you up on a cold winter's day!
->
->Corn and Bacon Chowder (serves 4)
->
->- 3 rashers bacon
->- 2 1/2 cups (625 ml) milk
->- 1 small onion, finely sliced
->- 1/2 cup (50g) diced celery
->- 1 potato, peeled and diced
->- 1 x 420g can sweet corn kernels
->		
->- 1 cup (250 ml) hot water
->- pinch of cayenne pepper
->- 1 tablespoon butter
->- salt to taste
->- 1 tablespoon flour
->- 1 tablespoon chopped parsley
->
->1. Chop bacon and saute in a large, heavy-based pan. Remove from pan. 
->2. Add onion and cook until soft, not brown. Add diced potato and hot water and simmer for 10 minutes.
->3. In another pan make white sauce from butter, flour and milk (see p. 48). 
->4. Add white sauce, celery and sweet corn to potato mixture and simmer for 15 minutes - as this is a very >thick soup it should be stirred frequently to prevent sticking.
->5. Add cayenne and salt to taste.
->6. To serve, sprinkle bacon and parsley on top.>
+## Sample recipe from p 35
+
+(used with permission)
+
+
+Here's something to warm you up on a cold winter's day!
+
+Corn and Bacon Chowder (serves 4)
+
+- 3 rashers bacon
+- 2 1/2 cups (625 ml) milk
+- 1 small onion, finely sliced
+- 1/2 cup (50g) diced celery
+- 1 potato, peeled and diced
+- 1 x 420g can sweet corn kernels
+		
+- 1 cup (250 ml) hot water
+- pinch of cayenne pepper
+- 1 tablespoon butter
+- salt to taste
+- 1 tablespoon flour
+- 1 tablespoon chopped parsley
+
+1. Chop bacon and saute in a large, heavy-based pan. Remove from pan. 
+2. Add onion and cook until soft, not brown. Add diced potato and hot water and simmer for 10 minutes.
+3. In another pan make white sauce from butter, flour and milk (see p. 48). 
+4. Add white sauce, celery and sweet corn to potato mixture and simmer for 15 minutes - as this is a very thick soup it should be stirred frequently to prevent sticking.
+5. Add cayenne and salt to taste.
+6. To serve, sprinkle bacon and parsley on top.
 
 </div>
