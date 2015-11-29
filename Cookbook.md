@@ -1,4 +1,4 @@
-<a href="" target="_blank"></a><a href="" target="_blank"></a><a href="" target="_blank"></a><a href="" target="_blank"></a><a href="" target="_blank"></a><a href="" target="_blank"></a>---
+---
 layout: main
 title: Cookbooks
 ---
