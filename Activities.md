@@ -13,7 +13,7 @@ title: Activities
 
 ## Publications
   - PWMU Newsletter
-  - The _[PWMU Cookbook](Cookbook)_
+  - The _[PWMU Cookbook](Cookbook.html)_
   - ... And The History (_From Suet to Saffron_)
   - [Free E-book](CLGPDF-English-book.pdf) by Rosemary Zurrer
 
