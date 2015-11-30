@@ -160,7 +160,7 @@ a:active {
 
 .right {
 float: right;
-width: 200px;
+width: 20%;
 text-align: justify;
 padding: 0 20px 10px 10px;
 }
@@ -190,7 +190,7 @@ color: #0000FF;
 
 
 .middle {
-width: 580px;
+width: 60%;
 /* text-align: justify; */
 padding: 20px 20px 10px 10px;
 margin-left: 230px;
@@ -222,7 +222,7 @@ color: #0000FF;
 
 .left {
 float: left;
-width: 200px;
+width: 20%;
 padding: 10px;
 
 /* border-right: 1px solid #aaa;  */
