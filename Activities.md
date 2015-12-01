@@ -21,7 +21,12 @@ title: Activities
 
   - Dayspring Children's Newsletter
   - Annual Devotional Booklet
+
+## Memorials
   - Book of Remembrance
+        When a PWMU member dies the Branch, or any member, may make a donation to PWMU to have the name written in the Book of Remembrance. Simply send a letter with details of the deceased, including date of death and next-of-kin. A card is sent to the next-of-kin and the donation is sent to Kirkbrae Presbyterian Homes.
+  - Memorial Donations
+        Donations may also be made at the funeral of a member. Their name is written in the Book of Memorial Donations and the gift is either allocated by Council to a missionary or the donors may specify where they want the donation to go.
 
 ## Collections
   - Used Stamps
