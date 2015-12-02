@@ -197,6 +197,13 @@ margin-left: 230px;
 overflow: hidden;
 
 }
+.middle h1 {
+color: #700000;
+font-size: 20px;
+font-weight: 500;
+padding-bottom : 15px;
+}
+
 .middle h2 {
 color: #700000;
 font-size: 16px;
