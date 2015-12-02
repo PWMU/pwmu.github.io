@@ -76,8 +76,8 @@ color: #00FF00;
 text-decoration: underline;
 }
 #menu ul li a:visited {
-/* color: #FF00FF;  darker blue from AshyPC */ 
-color: #0C64Ae;  /* Darker Blue from logo */
+color: #FF00FF;  /* darker blue from AshyPC */ 
+/* color: #0C64Ae;  Darker Blue from logo */
 text-decoration: underline;
 }
 
