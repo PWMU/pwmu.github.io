@@ -227,6 +227,10 @@ color: #0000FF;
 	padding-top: 10px;
 }
 
+.middle li {
+	margin-left: 2em;
+}
+
 .left {
 float: left;
 width: 200px;
