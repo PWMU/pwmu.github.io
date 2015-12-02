@@ -3,8 +3,10 @@ layout: main
 title: Cookbooks
 ---
 # The Famous PWMU Cookbook
+
 # over 100 years of hearty sustenance
-##
+
+
 
 -------------------------------------|-------------------------------------------------------
 ![Cookbook Cover](cookbook_cover.png)|![From Suet to Saffron](From-Suet-to-Saffron_cover.png)
@@ -33,7 +35,8 @@ Each book will have an inside label attached stating that it comes with the good
 
 There will still be over 4500 copies of the Cookbook in stock so plenty will be available for others wishing to purchase them. The publisher will give a 35% discount for church groups when orders and payment are made together.
 
-<div markdown="1" id="cookbooks"> 
+<div markdown="1" id="cookbooks">
+
 ## Sample recipe from p 35
 
 (used with permission)
