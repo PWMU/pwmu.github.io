@@ -25,11 +25,11 @@ title: PWMU Home
 
 ### Members receive regular news about
 
-####         - missionaries supported and sponsored by the PCV
+** - missionaries supported and sponsored by the PCV **
 
-####         - organisations where PCV missionaries are serving
+** - organisations where PCV missionaries are serving **
 
-####         - PWMU activities across the State
+** - PWMU activities across the State **
 
 
 PWMU 
@@ -41,3 +41,6 @@ PWMU
 - works to extend the kingdom of God in this and other lands
 
 - assists an indigenous person from Australia or overseas by providing a bursary to defray costs of training for Gospel work within their own country
+
+
+To have a Council member come to your church to speak about the work of PWMU, please contact the office.
