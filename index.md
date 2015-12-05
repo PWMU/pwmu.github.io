@@ -24,8 +24,18 @@ title: PWMU Home
 
 ### Members receive regular news about
 
-###         - missionaries supported and sponsored by the PCV
+####         - missionaries supported and sponsored by the PCV
 
-###         - organisations where PCV missionaries are serving
+####         - organisations where PCV missionaries are serving
 
-###         - PWMU activities across the State
+####         - PWMU activities across the State
+
+
+PWMU
+- supports and encourages our Victorian missionaries at home and abroad in prayer, personal interest and finance
+
+- supports the committees within the PCV which have responsibility for mission and social work
+
+- works to extend the kingdom of God in this and other lands
+
+- assists an indigenous person from Australia or overseas by providing a bursary to defray costs of training for Gospel work within their own country
