@@ -1,0 +1,573 @@
+* {
+    padding: 0;
+    margin: 0;
+} 
+
+body {
+background: #fff;
+font: 16px/125% "Garamond" "Georgia" "Times" serif
+/* font-family: serif;
+font-size: 16px;
+line-height: 20px; */
+color: #333333;
+}
+
+@media only screen and (max-width: 400px) {
+    body { font-size: 120%;}
+}
+ @media only screen and (max-width: 800px) {
+	body { font-size:110%;}
+}  
+     
+@media only screen and (max-width: 1100px) {
+	body { font-size:100%;}
+} 
+
+/* img { border: none; } */
+img { 
+    border: none; 
+    width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+a { color: #0F0FFF; }
+
+#wrap {
+/* width: 1080px; */
+width: auto;
+margin: 20px auto;
+}
+
+#header h1 {
+padding: 0 0 0 20px;
+font-size: 1.25em;
+letter-spacing: -2px;
+color: #700000;
+
+}
+#header h1 a {
+/* color: #2B448C; */
+color: #700000;
+text-decoration: none;
+}
+#header h1 a:hover {
+text-decoration: none;
+color: #000;
+}
+#header h2 {
+padding-left: 10px;
+font-size: 0.875em;
+color: #666;
+font-weight: 500;
+}
+
+#top {
+background: #fff no-repeat;
+padding: 5px 0;
+}
+
+/* Static Menu for desktop only
+
+#menu {
+height: 60px;
+line-height: 60px;
+/* background: #0000FF;  deep blue from PWMU site */
+/* background: #431a54;  purple as shadow of cross */
+/* background: #18596B;  grey-green of welcome banner */
+/* background: #D2141E;  Red for Christmas 2015 */ 
+/* background: #700000;  /* Burgundy 
+
+font-size: 1.25em;
+
+}
+#menu ul {
+padding-left: 24px;
+list-style-type: none;
+}
+#menu ul li {
+display: block;
+float: left;
+}
+#menu ul li a {
+color: #fff;
+padding: 0 10px;
+text-decoration: none;
+font-weight: 600;
+}
+#menu ul li a:hover {
+color: #00FF00;
+text-decoration: underline;
+}
+#menu ul li a:visited {
+color: #FF00FF;
+text-decoration: underline;
+}
+
+#menu .current {
+    font-size: 1em;
+	background: #2B448C;
+}
+
+End static menu for desktop */
+
+
+/* Begin Responsive menu with sub menus and hide/show menu button 
+
+A complete responsive menu with sub-menus */
+
+/*Strip the ul of padding and list styling */
+
+#menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+}
+
+/*Create a horizontal list with spacing */
+#menu li {
+	display:inline-block;
+	float: left;
+	margin-right: 1px;
+}
+
+/*Style for menu links */
+#menu li a {
+	display:block;
+	min-width:140px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #fff;
+	background: #700000;
+	text-decoration: none;
+}
+
+/*Hover state for top level links */
+#menu li:hover a {
+	background: #700000;
+}
+
+/*Style for dropdown links */
+#menu li:hover ul a {
+	background: #f3f3f3;
+	color: #2f3036;
+	height: 40px;
+	line-height: 40px;
+}
+
+/*Hover state for dropdown links */
+#menu li:hover ul a:hover {
+	background: #19c589;
+	color: #fff;
+}
+
+/*Hide dropdown links until they are needed */
+#menu li ul {
+	display: none;
+}
+
+/*Make dropdown links vertical */
+#menu li ul li {
+	display: block;
+	float: none;
+}
+
+/*Prevent text wrapping */
+#menu li ul li a {
+	width: auto;
+	min-width: 100px;
+	padding: 0 20px;
+}
+
+/*Display the dropdown on hover */
+#menu ul li a:hover + .hidden, .hidden:hover {
+	display: block;
+}
+
+#menu .current {
+    font-size: 1em;
+	background: #2B448C;
+}
+
+
+/*Style 'show menu' label button and hide it by default */
+.show-menu {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	background: #19c589;
+	text-align: center;
+	padding: 10px 0;
+	display: none;
+}
+
+/*Hide checkbox */
+input[type=checkbox]{
+    display: none;
+}
+
+/*Show menu when invisible checkbox is checked */
+input[type=checkbox]:checked ~ #menu{
+    display: block;
+}
+
+/* End Responsive Menu styles */
+
+#content {
+    padding: 10px 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #18596B;
+
+   
+}
+
+
+#scripture {
+    background: #F9D298;
+	font-size: 0.75em;
+	text-align: right;
+	text-decoration: italic;
+	/* width: 580px; */
+	width: 50%;
+	padding: 0 0;
+	border: none;
+}	
+
+#sermons {
+    /* width: 530px; */
+	width: 50%;
+	border: none; 
+    padding: 20px 20px 10px 10px;
+    overflow: hidden;
+}
+
+#sermons td {
+    font-size: 0.75em;
+    border: none;
+    padding: 3px 7px 2px 7px;
+}
+
+#sermons th {
+    font-size: 0.75em;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #2B448C;
+    color: #ffffff;
+}
+
+#sermons tr.alt td {
+    color: #000000;
+    background-color: #2B448C;
+}
+#sermons tr
+	
+
+#sermons td.alt td {
+	/* width: 306px;
+	width: 274px; */
+	width: 32%;
+	width: 28%;	
+}
+/* unvisited link */
+a:link {
+    /* color: #0005F7; */
+	color; #0000EE;
+}
+
+/* visited link */
+a:visited {
+    /* color: #FF00FF; */
+	color; #551A8B;
+}
+
+/* mouse over link */
+a:hover {
+    color: #00FF00;
+}
+
+/* selected link */
+a:active {
+   
+}
+
+
+
+.right {
+float: right;
+width: 25%;
+/* width: 200px; */
+text-align: justify;
+padding: 0 20px 10px 10px;
+}
+.right h2 {
+/* color: #0000EF; */
+color: #700000;
+font-size: 1em;
+font-weight: 500;
+padding : 10px 0 15px 0;
+}
+.right h2 a {
+
+}
+.right h2 a:hover {
+color: #0000FF;
+
+}
+.right table {
+	width: 100%;
+}
+.right table img {
+	margin: auto;
+}
+.right p {
+	padding-top: 10px;
+}
+
+
+.middle {
+float: left;
+width: 60%;	
+/* width: 560px;
+text-align: justify; */
+padding: 5px 5px 5px 5px;
+margin-left: auto;
+/* margin-left: 230px; */
+overflow: hidden;
+
+}
+.middle h2 {
+color: #700000;
+font-size: 1em;
+font-weight: 500;
+padding : 5px 5px 5px 5px;
+}
+.middle h2 a {
+
+}
+.middle h2 a:hover {
+color: #0000FF;
+
+}
+.middle table {
+	width: 100%;
+}
+.middle table img {
+	margin: auto;
+}
+.middle p {
+	padding-top: 10px;
+}
+
+.left {
+float: left;
+width: 15%;
+/* width: 200px; reduced from 20% as 200px to 15% padding down from 10 to 5px */
+padding: 5px;
+
+/* border-right: 1px solid #aaa;  */
+}
+
+.left h2 {
+font-size: 0.9375em;
+color: #700000;
+padding: 5px 0 2px 10px;
+}
+.left ul {
+list-style-type: none;
+padding: 5px 0 10px 5px;
+}
+.left ul li {
+padding: 2px 20px;
+background: transparent no-repeat;
+}
+
+.left ul li a {
+display: block;
+color: #444;
+}
+.left ul li a:hover {
+color: #33BFEB;
+}
+
+#bottom {
+background: #fff no-repeat;
+padding: 10px 0;
+}
+
+#footer {
+text-align: center;
+width: 95%;
+/* width: 960px; */
+color: #666;
+font-size: 0.6875em;
+}
+#footer  a { color: #666; }
+
+
+/* Responsive stuff
+
+#wrap {
+width: 100%;
+margin: 20px auto;
+}
+
+
+.right {
+float: right;
+width: 20%;
+text-align: justify;
+padding: 0 20px 10px 10px;
+}
+
+.left {
+float: left;
+width: 20%;
+padding: 10px;
+
+border-right: 1px solid #aaa;  Optional
+
+.middle {
+width: 60%;
+text-align: justify; Optional
+padding: 20px 20px 10px 10px;
+margin-left: 23%; OR auto
+overflow: hidden;
+
+
+Images
+
+img { 
+border: none; 
+    width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 
+}
+
+Other tweaks for font size and padding
+
+
+Assumes font size already set for tiny space of mobiles, then increased for larger acreage:
+
+.c1 {
+  padding: 10px;
+  width: 100%;
+}
+
+@media (min-width: 500px) {
+  .c1 {
+    padding: 20px;
+    font-size: 1.5em;
+  }
+}
+
+@media (min-width: 800px) {
+  .c1 {
+    padding: 40px;
+    font-size: 2em;
+  }
+}
+
+
+
+/*Responsive Styles/
+
+@media screen and (max-width : 760px){
+	/*Make dropdown links appear inline
+	ul {
+		position: static;
+		display: none;
+	}
+	/*Create vertical spacing
+	li {
+		margin-bottom: 1px;
+	}
+	/*Make all menu links full width
+	ul li, li a {
+		width: 100%;
+	}
+	/*Display 'show menu' link
+	.show-menu {
+		display:block;
+	}
+}
+
+HTML for menu above (includes toggle button to show/hide menu on small screens)
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>CSS Only Navigation Menu</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style_res7.css">
+</head>
+<body>
+	<label for="show-menu" class="show-menu">Show Menu</label>
+	<input type="checkbox" id="show-menu" role="button">
+		<ul id="menu">
+		<li><a href="#">Home</a></li>
+		<li>
+			<a href="#">About ?</a>
+			<ul class="hidden">
+				<li><a href="#">Who We Are</a></li>
+				<li><a href="#">What We Do</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="#">Portfolio ?</a>
+			<ul class="hidden">
+				<li><a href="#">Photography</a></li>
+				<li><a href="#">Web & User Interface Design</a></li>
+				<li><a href="#">Illustration</a></li>
+			</ul>
+		</li>
+		<li><a href="#">News</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+</body>
+</html>
+
+
+Style commands for detecting media size and orientation
+
+Basic screen sizes 
+a) above 1024px screens and laptops
+b) 768-1023px iPad and Samsung larger tablets, phablets
+c) below 767px iPhone, Droid phones Blackberry
+d) below 320px phones in portrait mode
+
+@media only screen and (min-width : 1024px) {}
+  @media only screen and (min-width : 768px) and (max-width : 1023px) {}
+  @media only screen and (max-width : 767px) {}
+
+(orientation : portrait) {}
+(orientation : landscape) {}
+
+
+iPad horizontal specific styles
+  @media only screen and (width : 1024px) and (orientation : landscape) {}
+
+Droid horizontal specific styles
+  @media only screen and (width : 854px) and (orientation : landscape) {}
+
+iPad vertical specific styles
+  @media only screen and (width : 768px) and (orientation : portrait) {}
+
+iPhone horizontal, Droid vertical, Torch horizontal specific styles
+  @media only screen and (width : 480px) and (orientation : landscape) {}
+
+Torch vertical specific styles
+  @media only screen and (width : 360px) and (orientation : portrait) {}
+
+iPhone vertical, Blackberry Curve specific styles
+  @media only screen and (width : 320px) and (orientation : portrait) {}
+
+iPhone 4 specific styles (retina display)
+  @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {}
+  
+
+*/
