@@ -19,7 +19,7 @@ Works in Africa and with indigineous communities here in Australia.
 Provides air support in Africa, Papua-New Guinea, and Northern Australia.
 
 ### [Navigators](https://www.navigators.org.au/)
-Supports the local church by providing discipleship tools, training and encouragement to believers both in Australia andacross the world.
+Supports the local church by providing discipleship tools, training and encouragement to believers both in Australia and across the world.
 
 ### [PIM Presbyterian Inland Mission](http://www.pim.org.au/)
 Arranges patrols through the Australian Outback (Central & Northern Australia), and supports the Presbyterian Church of Timor L'Este
