@@ -19,8 +19,7 @@ Works in Africa and with indigineous communities here in Australia.
 Provides air support in Africa, Papua-New Guinea, and Northern Australia.
 
 ### [Navigators](https://www.navigators.org.au/)
-
-FIXME.
+Supports the local church by providing discipleship tools, training and encouragement to believers both in Australia andacross the world.
 
 ### [PIM Presbyterian Inland Mission](http://www.pim.org.au/)
 Arranges patrols through the Australian Outback (Central & Northern Australia), and supports the Presbyterian Church of Timor L'Este
@@ -29,7 +28,7 @@ Arranges patrols through the Australian Outback (Central & Northern Australia), 
 Various missions in Africa, India, and Eastern Europe.
 
 ### [SIM](http://www.sim.org.au)
-??? FIXME ??? Africa
+SIM works in over 70 countries worldwide. 
 
 ### [Wycliffe Bible Translators / SIL](http://www.wycliffe.org.au)
 Translation efforts in Africa, Papua-New Guinea, Australia, the Pacific Islands, and other places around the world.
