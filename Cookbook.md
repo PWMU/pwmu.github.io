@@ -14,7 +14,7 @@ title: Cookbooks
 
 # An Australian Classic, revised and fully updated for the 21st Century.
 
-# Please view or [download full postage details here (pdf 373Kb)](PWMU_Cookbooks_2015_Details.pdf) and this [order form (pdf 283Kb)](Cookbooks_Order_20151026.pdf).
+# Please view or [download full postage details here (pdf 373Kb)](201701_Cookbook_Details_2017.pdf) and this [order form (pdf 283Kb)](201701_Cookbook_Order_Landscape.pdf).
 
 The PWMU COOKBOOK has a unique place in Australian kitchens. First published in 1904 and revised and reprinted many times since, it has sold well over 500,000 copies. This fifth edition contains recipes ranging from tried-and-true classics to more contemporary dishes with an international flavour, reflecting our multicultural population. Need a never-fail recipe for scones or sponge cake? A foolproof method for making hollandaise sauce or cooking a roast? Want to try your hand at Mongolian lamb or mee goreng? They are all in the PWMU COOKBOOK, along with the general guidance and handy hints that make it both a reliable companion and an essential tool for all cooks, whether beginners or experienced.
 
