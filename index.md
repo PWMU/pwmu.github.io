@@ -3,7 +3,7 @@ layout: main
 title: PWMU Home
 ---
 
-## Presbyterian Womens Missionary Union was founded in 1890 to encourage prayerful interest in, and support for, missionaries of the Presbyterian Church of Victoria (PCV).
+## The Presbyterian Womens Missionary Union was founded in 1890 to encourage prayerful interest in, and support for, missionaries of the Presbyterian Church of Victoria (PCV).
 
 <br>
   
@@ -11,15 +11,13 @@ title: PWMU Home
   
   
     
-### Members are usually organised into branches operating under the authority of the Session of the local congregation.
+### Members are usually organised into branches operating under the authority of the Session of the local congregation. If there is no branch close by, members may continue to receive newsletters and information direct to their own address (post or email).
 
 
 
-### Branches work together within Presbyteries as Presbyterial Associations (PAs)
+### Branches work together within Presbyteries as Regional Associations (RAs)
 
 
-
-### Members who are not able to join via a branch are recognised as individual "Lone" members   
 
 <br>
 
