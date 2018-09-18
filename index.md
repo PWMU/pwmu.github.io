@@ -46,18 +46,12 @@ To have a Council member come to your church to speak about the work of PWMU, pl
 
 ### Special Events 
 
-- **August 16th Thanksgiving Rally**
-
-	_Robert White Hall, 156 Collins Street Melbourne from 10:30am_
-
-	_**Culture and religion of the Middle East**_
-
 
 - **September 26th Dayspring Day**
 
 	_Wycliffe Base Kangaroo Ground_
 
-- **October 11th Annual General Meeting**
+- **October 11th Annual Service and Annual General Meeting**
 
 	_Robert White Hall, 156 Collins Street Melbourne_
 
