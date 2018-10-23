@@ -47,12 +47,5 @@ To have a Council member come to your church to speak about the work of PWMU, pl
 ### Special Events 
 
 
-- **September 26th Dayspring Day**
-
-	_Wycliffe Base Kangaroo Ground_
-
-- **October 11th Annual Service and Annual General Meeting**
-
-	_Robert White Hall, 156 Collins Street Melbourne_
 
   
